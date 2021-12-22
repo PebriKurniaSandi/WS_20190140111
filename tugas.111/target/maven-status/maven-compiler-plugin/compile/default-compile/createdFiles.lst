@@ -1,0 +1,8 @@
+pws\tugas1\Application.class
+pws\tugas1\DatamahasiswaJpaController.class
+pws\tugas1\ViewController.class
+pws\tugas1\exceptions\IllegalOrphanException.class
+pws\tugas1\exceptions\PreexistingEntityException.class
+pws\tugas1\Datamahasiswa_.class
+pws\tugas1\Datamahasiswa.class
+pws\tugas1\exceptions\NonexistentEntityException.class
